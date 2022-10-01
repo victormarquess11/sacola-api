@@ -88,7 +88,11 @@ No Terminal/Console:
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFQmgA3eCyeQw/profile-displayphoto-shrink_200_200/0/1639533787983?e=1669852800&v=beta&t=FLvkzKrkNqxM5HD7PkZ9dFxBcgg2CE7taqsi_nXEQqI" width="100px;" alt=""/>
  <br />
  <sub><b>Victor Marques</b></sub></a> <a href="https://www.linkedin.com/in/victormarquess11/" title="Linkedin"></a>
+ <br><br>
+ 
 👋🏽 Entre em contato!
+<br><br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victormarquess11/)](https://www.linkedin.com/in/victormarquess11/)
 <hr>
 <h3>Sobre</h3>
