@@ -91,7 +91,7 @@ No Terminal/Console:
  <br><br>
  
 👋🏽 Entre em contato!
-<br><br>
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victormarquess11/)](https://www.linkedin.com/in/victormarquess11/)
 <hr>
