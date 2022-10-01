@@ -90,7 +90,7 @@ No Terminal/Console:
  <sub><b>Victor Marques</b></sub></a> <a href="https://www.linkedin.com/in/victormarquess11/" title="Linkedin"></a>
 <br><br>
 👋🏽 Entre em contato!
-
+<br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victormarquess11/)](https://www.linkedin.com/in/victormarquess11/)
 <hr>
 <h3>Sobre</h3>
