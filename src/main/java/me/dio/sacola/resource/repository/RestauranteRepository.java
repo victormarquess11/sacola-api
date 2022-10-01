@@ -1,4 +1,4 @@
-package me.dio.sacola.repository;
+package me.dio.sacola.resource.repository;
 
 import me.dio.sacola.model.Restaurante;
 import org.springframework.data.jpa.repository.JpaRepository;
